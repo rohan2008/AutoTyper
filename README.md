@@ -14,11 +14,19 @@ This Python script simulates natural, human-like typing in any text field (like 
 
 ---
 
+## Install Requirements
+Make sure Python is installed, then run:
+bash
+pip install pyautogui keyboard
+
+---
+
 ##  How to Use
 
 ### 1. Clone or Download the Script
 You can download the file or clone the repo:
-
 ```bash
 git clone https://github.com/your-username/auto-typer.git
 cd auto-typer
+'''
+
