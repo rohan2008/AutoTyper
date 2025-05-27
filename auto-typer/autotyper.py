@@ -11,7 +11,7 @@ print("Autotyper will start in 5 seconds")
 time.sleep(5)
 
 # Keys that need to be held together to stop the script
-stop_keys = ['n', 'i', 'g', 'e', 'r']
+stop_keys = ['Esc']
 
 for char in text:
     # Check if all keys in stop_keys are pressed
